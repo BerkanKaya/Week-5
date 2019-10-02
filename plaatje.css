@@ -1,5 +1,4 @@
 body {
-	background-color:  #def6ed;
 	font-family: 'Roboto', sans-serif; 
 }
 	li a{
@@ -50,4 +49,11 @@ li a:hover{
 
 .bereidingswijze{
 	line-height: 36px;
+}
+
+.TipBox{
+	border: #def6ed solid 10px;
+	background-color: #def6ed;
+	width: 900px;
+	padding: 20px;
 }
