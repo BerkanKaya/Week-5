@@ -1,0 +1,33 @@
+body {
+	background-color:  #def6ed;
+	font-family: 'Roboto', sans-serif; 
+}
+	li a{
+	font-size: 30px;
+	color: black;						
+	list-style-position: outside;
+}
+ul {
+	list-style-type: normal;
+}
+
+.kook1{
+	margin-left:0px;
+	border: solid black;
+}
+
+li a:hover{
+	color: red;
+}
+.halloween{
+	border: solid black;
+}
+
+.container{
+	width: 950px;
+	margin: 0 auto;
+}
+
+.font1{
+	font line-height: 26px;
+}
