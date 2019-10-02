@@ -52,8 +52,8 @@ li a:hover{
 }
 
 .TipBox{
-	border: #def6ed solid 10px;
-	background-color: #def6ed;
+	border: aquamarine solid 10px;
+	background-color: aquamarine;
 	width: 900px;
-	padding: 20px;
+	padding: 0px;
 }
